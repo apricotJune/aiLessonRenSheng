@@ -1,0 +1,22 @@
+RAG体系课本周(2026年8月15日~8月16日)直播总结
+# 课件地址 
+https://study.renshengtech.com/course/cmqazybvyvd0ap6wvl4bzdgr7/chapter/cmsipz8s86ty5p6ezq7h6dhbq
+https://study.renshengtech.com/course/cmqazybvyvd0ap6wvl4bzdgr7/chapter/cmsiqoe706ulxp6ezp6dga8js
+
+# 代码仓库
+https://git.docs-hub.com/renshengtech/rag
+
+# 视频
+仁胜AI全栈开发体系课/RAG体系课
+
+- 015.定义Pydantic模型 
+- 016.解析失败重试 
+- 017.Agent结构化输出 
+- 018.Runnable 
+- 019.RunnableParallel 
+- 020.流式与批量 
+- 021.生产环境下的Runnable 
+- 022.如何定义工具 
+- 023.异常处理 
+- 024.修改系统提示词 
+- 025.动态选模型和工具 
